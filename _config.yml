@@ -1,9 +1,7 @@
-favicon: null
 name: Dynasty International
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.1730016614310443
+typography_spectrum: 0.3106383
 collections:
   - index:
       path: /
@@ -16,25 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+title: 'Dynasty International Marketing: The Movement'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.4973021999467164
-  brandStrength: 0.7775742462836206
-  rhythmicContrast: 0.4903008879628032
   brandColors:
     - '#3C493F'
     - '#7E8D85'
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
+  brandStrength: 0.7775742462836206
   lightness: 0.6754554039798677
-typography_spectrum: 0.3106383
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.1730016614310443
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+  saturation: 0.4973021999467164
+  rhythmicContrast: 0.4903008879628032
+purpose: []
