@@ -1,0 +1,28 @@
+name: Dynasty International
+favicon: null
+layout_spectrum: 0.17300166143104434
+typography_spectrum: 0.14868599246256053
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.7775742462836206
+  lightness: 0.6754554039798677
+  saturation: 0.49730219994671643
+  rhythmicContrast: 0.49030088796280324
+purpose: []
