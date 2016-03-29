@@ -1,7 +1,7 @@
 name: Dynasty International
 favicon: null
 layout_spectrum: 0.18469
-typography_spectrum: 0.55104
+typography_spectrum: 0.48092
 collections:
   - index:
       path: /
@@ -34,7 +34,7 @@ color:
     - '#ffffff'
     - '#fc8e54'
     - '#e9bdfd'
-  brandStrength: 0.75
+  brandStrength: 0.0625
   lightness: 0.625
   saturation: 0.75
   rhythmicContrast: 0.5
